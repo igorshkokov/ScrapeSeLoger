@@ -1,2 +1,3 @@
 # Analyzing property rental market in France
-Webscraper to do a market research of rental prices using SeLoger
+Webscraper and market research by city of apartment rental prices using SeLoger. Python, Plotly, CSS
+
